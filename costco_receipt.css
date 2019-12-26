@@ -1,0 +1,147 @@
+.wrapper {
+    border: 1px solid;
+    width: 300px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding: 20px;
+  }
+  
+  .costco {
+    margin-top: 30px;
+    font-family:Fantasy;
+    font-size: 50px;
+    text-align: center;
+    letter-spacing:1.5px;
+    font-style:oblique;
+  }
+  .design {
+    display: flex;
+    margin-left:70px;
+  }
+  .wholesale {
+    text-align: center;
+    font-style:oblique;
+    font-size:15px;
+    font-weight:bold;
+  }
+  .a {
+    height: 0.5px;
+    width: 54px;
+    border: 1px solid black;
+    background: black;
+  }
+  .b {
+    margin-top: 1px;
+    height: 1px;
+    width: 56px;
+    border: 1px solid black;
+    background: black;
+  }
+  .c {
+    margin-top: 1px;
+    height: 1px;
+    width: 58px;
+    border: 1px solid black;
+    background: black;
+  }
+  .start {
+    margin-top: 30px;
+    text-align:center;
+  }
+  .member {
+    margin-top: 30px;
+    margin-left:20px;
+  }
+  .member1, .member2, .member3,
+  .member4, .member5 {
+    display: flex;
+  }
+  
+  .m-num {
+    width: 50%;
+  }
+  .num2{
+    width:40%;
+    text-align:right;
+    margin-right:45px;
+  }
+  .num3{
+    width:40%;
+    text-align:right;
+    margin-right:45px;
+  }
+  .num4{
+    width:40%;
+    text-align:right;
+    margin-right:45px;
+  }
+  .num5{
+    width:40%;
+    text-align:right;
+    margin-right:46px;
+  }
+  
+  .account {
+    margin-top: 20px;
+    margin-left:20px;
+    word-spacing:3px;
+    letter-spacing:2px;
+  }
+  .detail {
+    margin-top: 20px;
+  }
+  .span1,
+  .span2 {
+    display: flex;
+    margin-left:20px;
+  }
+  .pump,
+  .gallon,
+  .price {
+    width: 33.3%;
+  }
+  .pump2,
+  .gallon2,
+  .price2 {
+    width: 33.3%;
+    margin-bottom:20px;
+  }
+  .heading,
+  .type {
+    display: flex;
+  }
+  .prod {
+    width: 55%;
+    text-align: left;
+    margin-left:20px;
+  }
+  .type{
+    margin-top:5px;
+  }
+  .amt1{
+    margin-right:60px;
+    
+  }
+  .amt{
+    word-spacing:2px;
+    letter-spacing:2.5px;
+    margin-right:20px;
+  }
+  .t-sale {
+    display: flex;
+    margin-top: 10px;
+  }
+  .card {
+    margin-top: 20px;
+    margin-left:20px;
+    letter-spacing:2px;
+    word-spacing:3px;
+  }
+  .dash {
+    margin-top: 20px;
+  }
+  .thanks {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
