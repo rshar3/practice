@@ -1,0 +1,111 @@
+.title,
+.address,
+.day,
+.id,
+.customer,
+.city,
+.contact {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  margin-top:10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.address {
+  padding-top: 10px;
+}
+.city {
+  padding-bottom: 10px;
+}
+body {
+  font-family: monospace;
+}
+.day {
+  padding-top: 10px;
+}
+.sale-item {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 10px;
+}
+.sale-price {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 5px;
+}
+.amount{
+  width:19%;
+  text-align:right;
+}
+.charges {
+  display: flex;
+
+  /*justify-content: flex-end;
+  padding-top: 4px;
+  margin-top: 20px;*/
+}
+.subtotal {
+  width: 80%;
+  text-align: right;
+}
+.gap{
+  margin-top:40px;
+}
+.payment{
+  display:flex;
+}
+.visa{
+  width:80%;
+  text-align:right;
+}
+.v-amount{
+  width:19%;
+  text-align:right;
+}
+.gap2{
+  margin-top:20px;
+}
+.tot-payment{
+  display:flex;
+}
+.t-payment{
+  width:80%;
+  text-align:left;
+}
+.t-amount{
+  width:19%;
+  text-align:right;
+}
+.gap3{
+  margin-top:20px;
+}
+.tips{
+  display:flex;
+}
+.total{
+  display:flex;
+}
+.gap4{
+  margin-top:20px;
+}
+.tip{
+  width:80%;
+  text-align:left;
+}
+.tot{
+  width:19%;
+  text-align:right;
+}
+.final{
+  margin-top:30px;
+}
+.refund{
+  text-align:center;
+}
+.wrapper {
+  max-width: 300px;
+  border: 2px solid;
+  padding: 10px;
+}
