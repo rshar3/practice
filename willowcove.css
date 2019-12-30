@@ -1,0 +1,53 @@
+.first{
+    display:flex;
+    width:70%;
+    justify-content:center;
+    border:5px solid blue;
+}
+.willow{
+    font-weight:bold;
+}
+.fleft{
+    width:20%;
+}
+.fmid{
+    width:20%;
+    margin:2px;
+}
+.flast{
+    width:30%;
+    margin:10px;
+}
+.table{
+    border:1px solid black;
+}
+.line{
+    border:0.5px solid black;
+}
+.rent{
+    background:blue;
+    color:black;
+}
+.aa{
+    display:flex;
+}
+.aleft{
+    width:65%;
+}
+.aright{
+    border:1px solid black;
+}
+.bb{
+    display:flex;
+}
+.bbfirst{
+    border:1px solid black;
+    width:65%;
+}
+.bbsec{
+    border:1px solid black;
+    width:40%;
+}
+.ocuamt{
+    background:grey;
+}
