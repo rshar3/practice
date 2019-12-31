@@ -41,12 +41,14 @@
     display:flex;
 }
 .bbfirst{
+    width:55%;
     border:1px solid black;
-    width:65%;
+    
 }
 .bbsec{
+    width:45%;
     border:1px solid black;
-    width:40%;
+    
 }
 .ocuamt{
     background:grey;
